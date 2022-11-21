@@ -1,5 +1,5 @@
 # Amazon-Data-Science-Books-Analysis
-## Analyzed Data Science Books dataset and Cluster analysis of book names TF-IDF and K-means
+## Analyzed Data Science Books dataset and Cluster analysis of book names TF-IDF and K-means Clustering
 
 ### EDA -
 
